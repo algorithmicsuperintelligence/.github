@@ -7,4 +7,4 @@ we deploy AI-discovered algorithms that set real-world records — faster, safer
 
 To learn more, read our [blog](https://algorithmicsuperintelligence.ai/blog/index.html).
 
-**Links:** 🧠 [GitHub](https://github.com/algorithmicsuperintelligence) · 📧 [research@algorithmicsuperintelligence.ai](mailto:research@algorithmicsuperintelligence.ai)
+**Links:** 🤗 [HF](https://huggingface.co/algorithmicsuperintelligence) · 📧 [research@algorithmicsuperintelligence.ai](mailto:research@algorithmicsuperintelligence.ai)
